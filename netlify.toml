@@ -1,0 +1,4 @@
+# Netlify (Git deploy): publishes the frontend folder. Rules are in frontend/_redirects.
+[build]
+  publish = "frontend"
+  command = ""
